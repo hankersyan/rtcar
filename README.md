@@ -13,6 +13,9 @@ Python3 + aiortc + opencv
 
 ![webrtc demo01](./screenshots/demo01.png "webrtc demo01")
 
+#### Run
+python3 rtcar.py --server=https://your.appr.tc:9090
+
 #### Installation
 
 1. sudo apt install -y python-dev pkg-config
