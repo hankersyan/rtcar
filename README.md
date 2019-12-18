@@ -1,12 +1,17 @@
 # RTCar
 
 #### Description
-Smart-rtc-car using webrtc, opencv on raspberry pi 3+, 
-including some features webrtc-via-internet, remote-control,
- human-detection, fall-detection. 
+Smart-rtc-car using webrtc, opencv on raspberry pi 3+.
+
+#### Features
+1. webrtc via internet
+2. remote control via data channel
+3. processing CV features
 
 #### Software Architecture
 Python3 + aiortc + opencv
+
+![webrtc demo01](./screenshots/demo01.png "webrtc demo01")
 
 #### Installation
 
